@@ -1,6 +1,6 @@
-## Buenas 👋 Mi nombre es Rodrigo Odz 😀
+## Buenas 👋 Mi nombre es Rodrigo Ortiz de Zárate
 
-## 🎓 Actualmente estoy cursando el 5to año de Ingenieria en Informatica en la Universidad Nacional del Litoral
+## 🎓 Soy estudiante de 5to año en la carrera Ingenieria en Informatica (UNL)
 
 - 🔭 Estoy actualmente realizando ciertas aplicaciones moviles y proyectos propios.
 - 🌱 Estoy focalizandome en aprender y perfeccionarme en el stack MERN
