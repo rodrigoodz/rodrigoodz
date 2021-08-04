@@ -40,9 +40,8 @@
 
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=rodrigoodz&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=rodrigoodz&count_private=true&show_icons=true&theme=tokyonight" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=rodrigoodz&show_icons=true&theme=radical" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=rodrigoodz&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=rodrigoodz&hide=php&theme=tokyonight" />
-</a>
+
+
 </div>
