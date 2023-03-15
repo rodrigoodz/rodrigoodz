@@ -1,6 +1,6 @@
 ## Buenas 👋 Mi nombre es Rodrigo Ortiz de Zárate
 
-## 🎓 Soy estudiante avanzado en la carrera Ingenieria en Informatica (UNL) y me desempeño como desarrollador en [Lab.a](https://laba.ar/)
+## 🎓 Soy estudiante avanzado en la carrera Ingenieria en Informatica (UNL) y me desempeño como desarrollador en [Nexup](https://nexuphealth.com/)
 
 - 🔭 Estoy actualmente realizando ciertas aplicaciones moviles y proyectos propios.
 - 🌱 Estoy focalizado en perfeccionarme en el stack MERN
